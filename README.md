@@ -1,7 +1,8 @@
+![logo](https://github.com/janakachamod/janakachamod/blob/main/Screenshot%202023-11-04%20161322.jpg)
+
 <h1 align="center">Hi 👋, I'm Chamod Janaka</h1>
 <h3 align="center">🌟 Passionate Software Engineering Student 🚀 👨‍💻 Proficient in Java Spring Boot, Laravel, Flutter, and IoT 🌐 🌱 Eager to apply skills through internships 🌆 🔧 Building a practical foundation in software development 💡 🌍 Join me on this journey to shape the digital world! 🌈✨ #CodeDreams #SoftwareWizard</h3>
 
-<img align="right" alt="coding" width=400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16762086-Programmer-character-animation&psig=AOvVaw0mCaYSJo3RglKv1L463JdT&ust=1699463833241000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiItqaysoIDFQAAAAAdAAAAABAI">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janakachamod&label=Profile%20views&color=0e75b6&style=flat" alt="janakachamod" /> </p>
@@ -32,4 +33,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janakachamod&show_icons=true&locale=en" alt="janakachamod" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janakachamod" alt="janakachamod" /></p>
